@@ -2,7 +2,7 @@
 FREE SAMPLE VERSION
 
 
-MESSAGE FOR GUIDE > https://t.me/senseicodes
+MESSAGE FOR GUIDE > https://t.me/geniustechie
 
 ![tgreport](https://user-images.githubusercontent.com/125784563/221641878-8e9cdb9a-a212-4704-8d40-1f65b3540106.png)
 
@@ -13,7 +13,7 @@ BANNING TELEGRAM CHANNELS AND GROUPS
 
 IF YOU HAVE A DEAL RELATED TO TELEGRAM 
 
-MESSAGE > https://t.me/senseicodes
+MESSAGE > https://t.me/geniustechie
 
 # USAGE
 
@@ -31,7 +31,7 @@ THESE ARE JUST THE TWO THINGS YOU NEED IN THE MODIFICATION OF THIS PYTHON SCRIPT
 
 FEEL FREE TO MESSAGE ME FOR A FREE GUIDE
 
-MESSAGE > https://t.me/senseicodes
+MESSAGE > https://t.me/geniustechie
 
 
 # LEGAL DISCLAIMER
