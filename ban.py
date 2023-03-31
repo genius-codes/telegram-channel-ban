@@ -17,3 +17,5 @@ with open('report.csv', mode='w', encoding='utf-8', newline='') as file:
     writer.writerow(['Date', 'Message'])
     for message in messages:
         writer.writerow([message.date.strftime('%Y-%m-%d %H:%M:%S'), message.text])
+
+       FOR FREE
