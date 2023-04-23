@@ -63,3 +63,4 @@ how to ban a telegram account
 best tool for banning telegram groups
 is there how to ban a telegram channel
 ways to ban a telegram channel
+how to report telegram channel to be banned
