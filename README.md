@@ -65,4 +65,4 @@ is there how to ban a telegram channel
 ways to ban a telegram channel
 how to report telegram channel to be banned
 telegram mass report ban
-
+best telegram report tool
